@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a copy of my CV <u><a href="https://stuartgeiger.com/geiger-cv.pdf"> here.</a></u>
+<br/>
+
 Education
 ======
 * BSc in Biochemistry, Imperial College London, 2020
