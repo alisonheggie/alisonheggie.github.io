@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a copy of my CV <u><a href="alisonheggie.github.io/Alison_Heggie_CV.pdf"> here.</a></u>
+You can download a copy of my CV <u><a href="https://alisonheggie.github.io/Alison_Heggie_CV.pdf"> here.</a></u>
 <br/>
 
 Education
