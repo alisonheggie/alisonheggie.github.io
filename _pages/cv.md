@@ -33,7 +33,7 @@ Work experience
   
 Publications
 ======
-
+ * Heggie et al., 2021; SteC and the intracellular Salmonella‐induced F‐actin meshwork <u><a href="https://alisonheggie.github.io/stec_review.pdf"> Download Here.</a></u>
   
 Skills
 ======
