@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a copy of my CV <u><a href="alisonheggie.github.io/Alison_Heggie_CV.pdf""> here.</a></u>
+You can download a copy of my CV <u><a href="alisonheggie.github.io/Alison_Heggie_CV.pdf"> here.</a></u>
 <br/>
-
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
 
 Education
 ======
