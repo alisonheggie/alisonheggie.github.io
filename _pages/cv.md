@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * BSc in Biochemistry, Imperial College London, 2020
+  * Convenors' Prize in Synthetic Biology
 * MRes in Systems and Synthetic Biology, Imperial Ceollge London, 2022
 * PhD in Bioeingeering, Imperial College London, 2025 (expected)
 
@@ -27,6 +28,12 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor David Holden
   
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Skills
 ======
 * Skill 1
@@ -36,12 +43,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Conferences
 ======
 * Conference 1
