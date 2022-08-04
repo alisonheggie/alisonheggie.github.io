@@ -13,7 +13,7 @@ Education
 ======
 * B.S in Biochemistry, Imperial College London, 2020
 * M.Res in Systems and Synthetic Biology, Imperial Ceollge London, 2022
-* Ph.D in Bioeingeering, Imperial College Lonodn, 2025 (expected)
+* Ph.D in Bioeingeering, Imperial College London, 2025 (expected)
 
 Work experience
 ======
