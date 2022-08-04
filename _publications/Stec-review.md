@@ -1,7 +1,7 @@
 ---
 title: "SteC and the intracellular Salmonella-induced F-actin meshwork"
 collection: publications
-permalink: /publication/SteC-review
+permalink: /publication/SteC-review.md
 excerpt: 'In this mini-review, we attempt to integrate the findings on the _Salmonella_ effector SteC and propose a more unified model to explain SCV-associated F-actin.'
 date: 2021-02-03
 venue: 'Cellular Microbiology'
