@@ -6,7 +6,7 @@ excerpt: 'In this mini-review, we attempt to integrate the findings on the _Salm
 date: 2021-02-03
 venue: 'Cellular Microbiology'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/cmi.13315'
-citation: 'Heggie et al., (2021). "SteC and the intracellular Salmonella-induced F-actin meshwork"; <i>Cellular Microbiology<i>;'
+citation: 'Heggie et al., (2021). "SteC and the intracellular Salmonella-induced F-actin meshwork"; <i>Cellular Microbiology<i> '
 ---
 
 Abstract:
